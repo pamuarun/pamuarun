@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=00F7FF&height=150&section=header&text=Arun%20Teja&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20%7C%20Agentic%20AI%20%7C%20AI%20Agents&descAlignY=65&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=150&section=header&text=Arun%20Teja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20%7C%20Agentic%20AI%20%7C%20AI%20Agents&descAlignY=65&descAlign=50" />
 
 <h1 align="center">Hi, I'm Arun Teja 👋</h1>
 <h3 align="center">😄 Glad you're here! Welcome to my GitHub 🙌 — I don't just use AI, I build it, deploy it & let it run on its own ⚡</h3>
@@ -108,6 +108,6 @@ If you're hiring or building something exciting in **AI • ML • Data Science 
   <img src="https://komarev.com/ghpvc/?username=pamuarun&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=00F7FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
