@@ -4,7 +4,7 @@
 <h3 align="center">😄 Glad you're here! Welcome to my GitHub 🙌 — I don't just use AI, I build it, deploy it & let it run on its own ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLMs+%7C+GenAI+%7C+Agentic+AI;Data+Scientist+%7C+ML+Engineer+%7C+AI+Automation;Building+AI+that+thinks%2C+acts+%26+automates+%F0%9F%9A%80;Open+to+AI%2FML%2FGenAI%2FData+Science+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+LLMs+%7C+GenAI+%7C+Agentic+AI;Data+Scientist+%7C+ML+Engineer+%7C+AI+Automation;Building+AI+that+thinks%2C+acts+%26+automates+%F0%9F%9A%80;Open+to+AI+%7C+ML+%7C+GenAI+%7C+Data+Science+Roles!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ AI & ML Engineer with hands-on experience building **LLM-powered apps**, **Agent
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pamuarun&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=pamuarun&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
@@ -89,7 +89,9 @@ If you're hiring or building something exciting in **AI • ML • Data Science 
 
 <br/>
 
-[![](https://komarev.com/ghpvc/?username=pamuarun&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pamuarun&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" />
 
