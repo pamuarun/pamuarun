@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Arun Teja 👋</h1>
 <h3 align="center">😄 Glad you're here! Welcome to my GitHub 🙌 — I don't just use AI, I build it, deploy it & let it run on its own ⚡</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLMs+%7C+GenAI+%7C+Agentic+AI;Building+AI+that+thinks%2C+acts+%26+automates;Open+to+Full-Time+AI%2FML+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+</p>
+
 <br/>
 
 ## 🙋‍♂️ Who Am I?
@@ -35,6 +43,8 @@ AI Engineer with hands-on experience building **LLM-powered apps**, **Agentic AI
   <img alt="github-snake" src="https://raw.githubusercontent.com/pamuarun/pamuarun/output/github-snake.svg" />
 </picture>
 
+<br/>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pamuarun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/arun-teja-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunteja962@gmail.com)
 
@@ -56,6 +66,11 @@ AI Engineer with hands-on experience building **LLM-powered apps**, **Agentic AI
 ![](https://github-contributor-stats.vercel.app/api?username=pamuarun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Open%20to%20Work-Full%20Time%20AI%2FML%20Roles-brightgreen?style=for-the-badge" />
+</p>
+
 [![](https://komarev.com/ghpvc/?username=pamuarun&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
