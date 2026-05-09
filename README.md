@@ -27,11 +27,13 @@ AI Engineer with hands-on experience building **LLM-powered apps**, **Agentic AI
 
 <br/>
 
-<!-- Snake Game Repo View -->
+### 🐍 Snake eating my contributions
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamuarun/pamuarun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamuarun/pamuarun/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pamuarun/pamuarun/output/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pamuarun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/arun-teja-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunteja962@gmail.com)
